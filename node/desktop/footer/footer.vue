@@ -6,7 +6,7 @@
 				<div class="footer-container-links-header">
 					<h2 class="footer-container-links-header-title">
 						<i class="iconfont icon-denglu2 icon-link"></i>
-						<span class="footer-container-links-header-title-text">友情链接</span>
+		
 					</h2>
 				</div>
 				<nav class="footer-container-links-body">
